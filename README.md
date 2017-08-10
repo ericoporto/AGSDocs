@@ -3,6 +3,8 @@
 This is a work in progress, this repository will at some point store a fork of the Adventure Game Studio Documentation,
 [you can read it here](Markdown/ags.md).
 
+You can [read in a webpage here](http://ericoporto.github.io/AGSDocs).
+
 
 ## Building the documentation
 
