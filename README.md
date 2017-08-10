@@ -30,3 +30,8 @@ FGMK itself.
 
 The script requires: sphinx, sphinx_rtd_theme (both on python3) and pandoc
 installed.
+
+# Author 
+
+This documentation was not created by me, I just stored it here with the purpose of findout how to make it more maintanable
+
